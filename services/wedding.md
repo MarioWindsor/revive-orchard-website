@@ -13,6 +13,6 @@ description: >-
   every detail to perfection, ensuring that your special day is as extraordinary
   as your love. Let nature's beauty be the witness to the beginning of your new
   journey together.
-image: /media/uploads/pexels-oliver-li-6490277.jpg
+image: /media/uploads/shardayyy-photography-fjzmpe-a0eu-unsplash.jpg
 ---
 
