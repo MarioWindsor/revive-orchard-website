@@ -1,9 +1,9 @@
 ---
-title: Rediscover Wellness Amidst Nature's Embrace
+title: Wellness Retreats
 date: '2023-11-17T10:28:11+05:30'
 tags:
   - service
-heading: Wellness Retreats At Revive Orchards
+heading: Rediscover Wellness Amidst Nature's Embrace
 description: >-
   Revive Orchards welcomes you to a sanctuary of holistic well-being and
   rejuvenation. Immerse yourself in the soothing embrace of nature as you embark
