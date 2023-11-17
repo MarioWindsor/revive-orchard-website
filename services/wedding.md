@@ -1,5 +1,5 @@
 ---
-title: Wedding
+title: Weddings
 date: '2023-11-16T20:56:56+05:30'
 tags:
   - service
